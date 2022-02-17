@@ -1,0 +1,16 @@
+{
+  "timestamp" : "2022-02-17T22:50:41Z",
+  "count_outdated" : 0,
+  "uniques_outdated" : 0,
+  "count" : 6,
+  "uniques" : 3,
+  "clones" : [
+    {
+      "timestamp": "2022-02-17T00:00:00Z",
+      "count": 6,
+      "count_minmax": [ 6, 6 ],
+      "uniques": 3,
+      "uniques_minmax": [ 3, 3 ]
+    }
+  ]
+}
